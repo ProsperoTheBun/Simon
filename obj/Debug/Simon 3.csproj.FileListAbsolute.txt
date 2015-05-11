@@ -1,0 +1,6 @@
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\bin\Debug\Simon.exe.config
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\bin\Debug\Simon.exe
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\bin\Debug\Simon.pdb
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\obj\Debug\Simon.exe
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\obj\Debug\Simon.pdb
+H:\My Documents\Visual Studio 2012\Projects\Simon 1\Simon 3\obj\Debug\Simon 3.csprojResolveAssemblyReference.cache
